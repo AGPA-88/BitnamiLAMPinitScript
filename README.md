@@ -6,3 +6,7 @@
 1. Disable debian's mysql
 1. Enable tcp connexion to mysql
 1. Disable debian's apache
+
+## How to use it
+
+<todo by AGPA>
