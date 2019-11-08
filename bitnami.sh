@@ -20,8 +20,3 @@ sudo /opt/bitnami/ctlscript.sh restart mysql
 sudo systemctl stop apache2
 sudo systemctl disable apache2
 sudo /opt/bitnami/ctlscript.sh restart apache 
-
-
-#Restart php:
-sudo /opt/bitnami/ctlscript.sh restart php-fpm
-
