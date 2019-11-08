@@ -8,6 +8,9 @@
 1. Disable debian's apache
 
 ## How to use it
-
+sudo wget dsqjkdk.zip
+unzip chemin/
+cd chemin
+sudo bash (or sh) bitnami.sh
 <todo by AGPA>
 </todo>
