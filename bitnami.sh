@@ -11,7 +11,7 @@ sudo systemctl start ssh
 sudo systemctl stop mysql
 sudo systemctl disable mysql
 sudo ufw allow mysql/tcp
-vim /opt/bitnami/mysql/my.cnf
+sudo cp my.cnf /opt/bitnami/mysql/
 sudo /opt/bitnami/ctlscript.sh restart mysql
 
 
